@@ -12,13 +12,13 @@ This directory contains the code for OCEAN.
 
 ## Files
 
-In the test-conv in `test/` folder is the convolution from CrypTFlow2.
+In the test-conv in `tests/` folder is the convolution from CrypTFlow2.
 
-In the test-relu in `test/` folder is the ReLU from CrypTFlow2.
+In the test-relu in `tests/` folder is the ReLU from CrypTFlow2.
 
-In the test-reconv in `test/` folder is relu-convolution in FIT.
+In the test-reconv in `tests/` folder is relu-convolution proposed in FIT (IEEE S\&P 2024).
 
-In the test-ocean in `test/` folder is our relu-convolution of proposed OCEAN.
+In the test-ocean in `tests/` folder is our relu-convolution of proposed OCEAN.
 
 ## Compilation
 
