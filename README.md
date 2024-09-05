@@ -31,13 +31,11 @@ make
 // or make -j for faster compilation
 ```
 
-## Running Tests & Networks
+## Running Tests
 
-In `build/bin/`, run the tests as follows to make sure everything works as intended:
+In `build/bin/`, run the tests as follows:
 
-one terminal: `./<test> r=1`
-
-another terminal: `./<test> r=2`
+In one terminal: `./<test> r=1`, and in another terminal: `./<test> r=2`
 
 
 # Credits
